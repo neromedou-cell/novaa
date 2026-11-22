@@ -1,0 +1,6 @@
+{
+  "name": "ظِلّ — Zill Conversational Studio",
+  "description": "A bilingual Arabic and English multi-turn conversational workspace powered by Gemini with customizable role personas and streaming responses.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
